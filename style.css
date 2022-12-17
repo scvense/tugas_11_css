@@ -1,0 +1,30 @@
+.head {
+    background-color: black;
+    height: 40px;
+    color: white;
+}
+.main1 {
+    background-color: rgb(244, 241, 241);
+ 
+}
+.konten {
+    height: 180px;
+    column-width: 300px;
+    column-fill: balance;
+    column-rule: 3px black;
+    column-rule-style: groove;
+    
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.menu {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+}
